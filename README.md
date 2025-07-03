@@ -16,10 +16,10 @@ A simple web-based UI where selecting a **radio button** dynamically updates and
 - 🧠 Uses **vanilla JavaScript DOM manipulation**## 🖼️ Screenshots
 
 ### 🔹 Main Page
-![Main Page](./ScreenShots/main-page.png)
+![Main Page](./Screenshots/main-page.png)
 
 ### 🔹 After Selection
-![After Selection](./ScreenShots/selection.png)
+![After Selection](./Screenshots/selection.png)
 ## 🚀 How to Run the Project
 
 - Clone or download the repository
