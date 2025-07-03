@@ -23,8 +23,10 @@ A simple web-based UI where selecting a **radio button** dynamically updates and
 ## 🚀 How to Run the Project
 
 - Clone or download the repository
-- Open index.html in any modern web browser.   ## 🛠️ Technologies Used
+- Open index.html in any modern web browser.
 
+  
+## 🛠️ Technologies Used
 - 🧱 HTML5
 - 🎨 CSS3
 - ⚙️ JavaScript
